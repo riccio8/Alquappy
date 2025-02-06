@@ -1,3 +1,3 @@
 # Alquappy
 
-### Like flappy birds but with some improvement, using Ebitengine in golang
+### Like flappy birds but with some improvement
